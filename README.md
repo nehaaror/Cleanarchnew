@@ -1,0 +1,2 @@
+# Cleanarchnew
+Clean Architecture solution
