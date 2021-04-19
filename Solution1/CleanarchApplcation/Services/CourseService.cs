@@ -26,11 +26,7 @@ namespace CleanarchApplcation.Services
                 courseViewModel.Name,
                 courseViewModel.Description,
                 courseViewModel.ImagURL);
-            _bus.Sendcommand(createCourseCommand);
-
-         
-           
-               
+            _bus.Sendcommand(createCourseCommand);               
            
         }
 
